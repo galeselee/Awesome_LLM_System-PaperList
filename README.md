@@ -17,6 +17,7 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 8. lightllm, [Repo](https://github.com/ModelTC/lightllm)
 9. LMDeploy, [Repo](https://github.com/InternLM/lmdeploy)
 10. Text-Generation-Inference, [Repo](https://github.com/huggingface/text-generation-inference)
+11. MLC-LLM, [Repo](https://github.com/mlc-ai/mlc-llm)
 ## Transformer accelerate
 1. FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, [Paper](https://arxiv.org/abs/2205.14135)
 2. FlashAttention2: Faster Attention with Better Parallelism and Work Partitioning, [Paper](https://arxiv.org/abs/2307.08691)
