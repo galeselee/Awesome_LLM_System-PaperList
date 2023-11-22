@@ -8,17 +8,16 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 
 ## Framework
 1. DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale, [Paper](https://export.arxiv.org/pdf/2207.00032.pdf)
-2. TurboTransformers: An Efficient GPU serving System For Transformer Models, [Paper](https://arxiv.org/pdf/2010.05680.pdf)
-3. (vLLM)Efficient Memory Management for Large Language Model Serving with PagedAttention, [Paper](https://arxiv.org/abs/2309.06180.pdf)
-4. Fast Distributed Inference Serving for Large Language Models, [Paper](https://arxiv.org/pdf/2305.05920.pdf)
-5. AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving, [Paper](https://arxiv.org/abs/2302.11665/pdf)
-6. Orca: A Distributed Serving System for Transformer-Based Generative Models, [Paper](https://www.usenix.org/system/files/osdi22-yu.pdf)
-7. FasterTransformer, [Repo](https://github.com/NVIDIA/FasterTransformer) (FasterTransformer development has transitioned to TensorRT-LLM)
-8. Tensor RT-LLM, [Repo](https://github.com/NVIDIA/TensorRT-LLM)
-9. lightllm, [Repo](https://github.com/ModelTC/lightllm)
-10. LMDeploy, [Repo](https://github.com/InternLM/lmdeploy)
-11. Text-Generation-Inference, [Repo](https://github.com/huggingface/text-generation-inference)
-12. MLC-LLM, [Repo](https://github.com/mlc-ai/mlc-llm)
+2. (vLLM)Efficient Memory Management for Large Language Model Serving with PagedAttention, [Paper](https://arxiv.org/abs/2309.06180.pdf)
+3. Fast Distributed Inference Serving for Large Language Models, [Paper](https://arxiv.org/pdf/2305.05920.pdf)
+4. AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving, [Paper](https://arxiv.org/abs/2302.11665/pdf)
+5. Orca: A Distributed Serving System for Transformer-Based Generative Models, [Paper](https://www.usenix.org/system/files/osdi22-yu.pdf)
+6. FasterTransformer, [Repo](https://github.com/NVIDIA/FasterTransformer) (FasterTransformer development has transitioned to TensorRT-LLM)
+7. Tensor RT-LLM, [Repo](https://github.com/NVIDIA/TensorRT-LLM)
+8. lightllm, [Repo](https://github.com/ModelTC/lightllm)
+9. LMDeploy, [Repo](https://github.com/InternLM/lmdeploy)
+10. Text-Generation-Inference, [Repo](https://github.com/huggingface/text-generation-inference)
+11. MLC-LLM, [Repo](https://github.com/mlc-ai/mlc-llm)
 ## Transformer accelerate
 1. FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, [Paper](https://arxiv.org/abs/2205.14135)
 2. FlashAttention2: Faster Attention with Better Parallelism and Work Partitioning, [Paper](https://arxiv.org/abs/2307.08691)
@@ -38,8 +37,9 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 ### Quant
 1. Atom: Low-bit Quantization for Efficient and Accurate LLM Serving, [Paper](http://arxiv.org/abs/2310.19102)
 ### Punrning/sparisity
+1. Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity, [Paper](https://arxiv.org/abs/2309.10285)
 ### Low rank
-### Communication
+## Communication
 1. Overlap communication with dependent compuation via Decompostion in Large Deep Learning Models,[Paper](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959)
 2. Efficiently scaling Transformer inference, [Paper](https://arxiv.org/abs/2211.05102)
 ## Energy
