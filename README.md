@@ -45,3 +45,6 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 2. Efficiently scaling Transformer inference, [Paper](https://arxiv.org/abs/2211.05102)
 ## Energy
 1. Zeus: Understanding and Optimizing GPU energy Consumption of DNN Training, [Paper](https://www.usenix.org/system/files/nsdi23-you.pdf)
+## Decentralized
+1. FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs, [Paper](https://arxiv.org/pdf/2309.01172.pdf)
+2. Petals: Collaborative Inference and Fine-tuning of Large Models, [Paper](https://arxiv.org/abs/2209.01188)
