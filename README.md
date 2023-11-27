@@ -5,6 +5,7 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 1. Full Stack Optimization for Transformer Inference: a Survey, [Paper](https://arxiv.org/pdf/2302.14017.pdf)
 2. A survey of techniques for optimizing transformer inference, [Paper](https://www.sciencedirect.com/science/article/pii/S1383762123001698)
 3. A Survey on Model Compression for Large Language Models, [Paper](https://arxiv.org/pdf/2308.07633.pdf)
+4. Evaluation of pre-training large language models on leadership-class supercomputers, [Paper](https://link.springer.com/article/10.1007/s11227-023-05479-7)
 
 ## Framework
 1. DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale, [Paper](https://export.arxiv.org/pdf/2207.00032.pdf)
