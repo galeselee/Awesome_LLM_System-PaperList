@@ -6,6 +6,7 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 2. A survey of techniques for optimizing transformer inference, [Paper](https://www.sciencedirect.com/science/article/pii/S1383762123001698)
 3. A Survey on Model Compression for Large Language Models, [Paper](https://arxiv.org/pdf/2308.07633.pdf)
 4. Evaluation of pre-training large language models on leadership-class supercomputers, [Paper](https://link.springer.com/article/10.1007/s11227-023-05479-7)
+5. Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems, [Paper](https://arxiv.org/abs/2312.15234v1)
 
 ## Framework
 1. DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale, [Paper](https://export.arxiv.org/pdf/2207.00032.pdf)
@@ -21,6 +22,8 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 11. LMDeploy, [Repo](https://github.com/InternLM/lmdeploy)
 12. Text-Generation-Inference, [Repo](https://github.com/huggingface/text-generation-inference)
 13. MLC-LLM, [Repo](https://github.com/mlc-ai/mlc-llm)
+14. PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU, [Paper](https://arxiv.org/abs/2312.12456)
+15. LLM in a flash: Efficient Large Language Model Inference with Limited Memory, [Paper](https://arxiv.org/abs/2312.11514)
 ## Transformer accelerate
 1. FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, [Paper](https://arxiv.org/abs/2205.14135)
 2. FlashAttention2: Faster Attention with Better Parallelism and Work Partitioning, [Paper](https://arxiv.org/abs/2307.08691)
