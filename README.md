@@ -8,7 +8,7 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 4. Evaluation of pre-training large language models on leadership-class supercomputers, [Paper](https://link.springer.com/article/10.1007/s11227-023-05479-7)
 5. Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems, [Paper](https://arxiv.org/abs/2312.15234v1)
 
-## Framework
+## Framework and Transformer-based LLM severing
 1. DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale, [Paper](https://export.arxiv.org/pdf/2207.00032.pdf)
 2. (vLLM)Efficient Memory Management for Large Language Model Serving with PagedAttention, [Paper](https://arxiv.org/abs/2309.06180.pdf)
 3. Fast Distributed Inference Serving for Large Language Models, [Paper](https://arxiv.org/pdf/2305.05920.pdf)
@@ -16,7 +16,7 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 5. Orca: A Distributed Serving System for Transformer-Based Generative Models, [Paper](https://www.usenix.org/system/files/osdi22-yu.pdf)
 6. FasterTransformer, [Repo](https://github.com/NVIDIA/FasterTransformer) (FasterTransformer development has transitioned to TensorRT-LLM)
 7. TurboTransformers: An Efficient GPU serving System For Transformer Models, [Paper](https://arxiv.org/pdf/2010.05680.pdf)
-8. Medusa, [Repo](https://github.com/FasterDecoding/Medusa); LookaheadDecoding, [Repo](https://github.com/hao-ai-lab/LookaheadDecoding)
+8. Medusa, [Repo](https://github.com/FasterDecoding/Medusa), [Paper](https://arxiv.org/abs/2401.10774); LookaheadDecoding, [Repo](https://github.com/hao-ai-lab/LookaheadDecoding)
 9. Tensor RT-LLM, [Repo](https://github.com/NVIDIA/TensorRT-LLM)
 10. lightllm, [Repo](https://github.com/ModelTC/lightllm)
 11. LMDeploy, [Repo](https://github.com/InternLM/lmdeploy)
@@ -24,6 +24,8 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 13. MLC-LLM, [Repo](https://github.com/mlc-ai/mlc-llm)
 14. PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU, [Paper](https://arxiv.org/abs/2312.12456)
 15. LLM in a flash: Efficient Large Language Model Inference with Limited Memory, [Paper](https://arxiv.org/abs/2312.11514)
+16. Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline, [Paper](https://arxiv.org/abs/2305.13144)
+17. S3: Increasing GPU Utilization during Generative Inference for Higher Throughput, [Paper](https://arxiv.org/abs/2306.06000)
 ## Transformer accelerate
 1. FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, [Paper](https://arxiv.org/abs/2205.14135)
 2. FlashAttention2: Faster Attention with Better Parallelism and Work Partitioning, [Paper](https://arxiv.org/abs/2307.08691)
