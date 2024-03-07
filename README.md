@@ -30,6 +30,7 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 18. S3: Increasing GPU Utilization during Generative Inference for Higher Throughput, [Paper](https://arxiv.org/abs/2306.06000)
 19. DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving, [Paper](https://arxiv.org/abs/2401.09670)
 20. AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving, [Paper](https://www.usenix.org/conference/osdi23/presentation/li-zhouhan)
+21. Splitwise: Efficient generative LLM inference using phase splitting, [Paper](https://arxiv.org/abs/2311.18677)
 
 ### Predict response length
 1. Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline, [Paper](https://arxiv.org/abs/2305.13144)
