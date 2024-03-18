@@ -55,6 +55,8 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 ## Model Compression
 ### Quant
 1. Atom: Low-bit Quantization for Efficient and Accurate LLM Serving, [Paper](http://arxiv.org/abs/2310.19102)
+2. Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference, [Paper](https://arxiv.org/abs/2403.09636)
+
 ### Punrning/sparisity
 1. Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity, [Paper](https://arxiv.org/abs/2309.10285)
 ### Low rank
