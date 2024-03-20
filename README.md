@@ -2,12 +2,14 @@
 Since the emergence of chatGPT in 2022, the acceleration of Large Language Model has become increasingly important. Here is a list of papers on accelerating LLMs, currently focusing mainly on inference acceleration, and related works will be gradually added in the future. Welcome contributions!
 
 ## Survey
-1. Full Stack Optimization for Transformer Inference: a Survey, [Paper](https://arxiv.org/pdf/2302.14017.pdf)
-2. A survey of techniques for optimizing transformer inference, [Paper](https://www.sciencedirect.com/science/article/pii/S1383762123001698)
-3. A Survey on Model Compression for Large Language Models, [Paper](https://arxiv.org/pdf/2308.07633.pdf)
-4. Evaluation of pre-training large language models on leadership-class supercomputers, [Paper](https://link.springer.com/article/10.1007/s11227-023-05479-7)
-5. Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems, [Paper](https://arxiv.org/abs/2312.15234v1)
-6. LLM Inference Unveiled: Survey and Roofline Model Insights, [Paper](https://arxiv.org/abs/2402.16363)
+
+|  Paper | Keywords|Institute (first)|Publication | Others 
+| :------------------: | :--------------: | :----------- | :---------: | :---------:|
+[Full Stack Optimization for Transformer Inference: a Survey](https://arxiv.org/pdf/2302.14017.pdf)|Hardware and software co-design | UCB | Arxiv | |
+[A survey of techniques for optimizing transformer inference](https://www.sciencedirect.com/science/article/pii/S1383762123001698) | Transformer optimization |Iowa State Univeristy | Journal of Systems Architecture||
+[A Survey on Model Compression for Large Language Models](https://arxiv.org/pdf/2308.07633.pdf)|Model Compression | UCSD | Arxiv
+|[Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://arxiv.org/abs/2312.15234v1)|Optimization technique: quant, pruning, continuous batching, virtual memory| CMU| Arxiv
+|[LLM Inference Unveiled: Survey and Roofline Model Insights](https://arxiv.org/abs/2402.16363)|Performance analysis| Infinigence-AI | Arxiv | [LLMViewer](https://github.com/hahnyuan/LLM-Viewer)
 
 ## Framework and Transformer-based LLM severing
 1. DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale, [Paper](https://export.arxiv.org/pdf/2207.00032.pdf)
