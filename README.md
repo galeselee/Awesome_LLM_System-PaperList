@@ -33,11 +33,11 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514) | flash; Pruning | Apple | Arxiv  | 
 [Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline](https://arxiv.org/abs/2305.13144)|Length Perception | NUS | NeurIPS 2023 | [Github repo](https://github.com/zhengzangw/Sequence-Scheduling)
 [S3: Increasing GPU Utilization during Generative Inference for Higher Throughput](https://arxiv.org/abs/2306.06000)| | Harvard University | Arxiv | 
-[DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670) | Decouple | PKU | Arxiv 
+[DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670) | Decouple | PKU | OSDI 2024 
 [Splitwise: Efficient generative LLM inference using phase splitting](https://arxiv.org/abs/2311.18677) | Decouple | UW | Arxiv | [Track issue](https://github.com/vllm-project/vllm/issues/2472)
 [Efficiently Programming Large Language Models using SGLang](https://arxiv.org/abs/2312.07104) | Agent Language | UCB | Arxiv | [Github repo](https://github.com/sgl-project/sglang)
 [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) | Single GPU | Stanford University | Arxiv | [Github repo](https://github.com/FMInference/FlexGen)
-[Non-Exclusive Memory Tiering via Transactional Page Migration](https://arxiv.org/abs/2403.02310） ｜ Decouple | GaTech | 
+[Non-Exclusive Memory Tiering via Transactional Page Migration](https://arxiv.org/abs/2403.02310） ｜ Decouple | GaTech | OSDI 2024 | 
 
 
 ## Transformer accelerate
