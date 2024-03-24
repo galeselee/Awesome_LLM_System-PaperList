@@ -22,7 +22,7 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 [MLC LLM](https://github.com/mlc-ai/mlc-llm) | TVM; Multi-platforms | MLC-Team
 [Text-Generation-Inference(TGI)](https://github.com/huggingface/text-generation-inference) |  | Huggingface
 
-## Server/Inference Algorithm
+## Server
 |  Paper | Keywords|Institute (first)|Publication | Others 
 | :------------------: | :--------------: | :-----------: | :---------: | :---------:|
 [Fast Distributed Inference Serving for Large Language Models](https://arxiv.org/pdf/2305.05920.pdf)|Distributed inference serving | PKU | Arxiv |  
