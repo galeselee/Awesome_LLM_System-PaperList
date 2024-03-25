@@ -38,6 +38,8 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 [Efficiently Programming Large Language Models using SGLang](https://arxiv.org/abs/2312.07104) | Agent Language | UCB | Arxiv | [Github repo](https://github.com/sgl-project/sglang)
 [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) | Single GPU | Stanford University | Arxiv | [Github repo](https://github.com/FMInference/FlexGen)
 [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://arxiv.org/abs/2403.02310) | Decouple | GaTech | OSDI 2024 | 
+[SpotServe: Serving Generative Large Language Models on Preemptible Instances] | Preemptible GPU | CMU | ASPLOS 2024 | [Empty Github repo](https://github.com/hsword/spotserve)
+[SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification] | Tree-based Speculative | CMU | ASPLOS 2024 | 
 
 
 ## Transformer accelerate
