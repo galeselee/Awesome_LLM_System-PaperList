@@ -56,7 +56,7 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/pdf/2305.13245.pdf) | GQA | Google Research | ACL 2023 
 [LightSeq: A High Performance Inference Library for Transformers](http://arxiv.org/abs/2010.13887)| |ByteDance | NAACL 2021 | [Github repo](https://github.com/bytedance/lightseq)
 [LightSeq2: LightSeq2: Accelerated Training for Transformer-based Models on GPUs](https://arxiv.org/pdf/2110.05722.pdf) |  |ByteDance  | SC 2022 
-[Blockwise Parallel Transformer for Large Context Models] | Blockwise transformer | UCB | NeurIPS 2023 | [Github repo](https://github.com/kyegomez/Blockwise-Parallel-Transformer)
+[Blockwise Parallel Transformer for Large Context Models](https://arxiv.org/pdf/2305.19370.pdf) | Blockwise transformer | UCB | NeurIPS 2023 | [Github repo](https://github.com/kyegomez/Blockwise-Parallel-Transformer)
 ## Model Compression
 ### Quant
 |  Paper | Keywords|Institute (first)|Publication | Others 
