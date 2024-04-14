@@ -2,10 +2,10 @@
 description: >-
   Since the emergence of chatGPT in 2022, the acceleration of Large Language
   Model has become increasingly important. Here is a list of papers on
-  accelerating LLMs, currently focusing mainly on inferenc
+  accelerating LLMs, currently focusing mainly on inference and serving
 ---
 
-# Awesome\_LLM\_Accelerate-PaperList
+# Awesome\_LLM\_System-PaperList
 
 ### Survey
 
