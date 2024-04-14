@@ -61,7 +61,9 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 [LightSeq: A High Performance Inference Library for Transformers](http://arxiv.org/abs/2010.13887)| |ByteDance | NAACL 2021 | [Github repo](https://github.com/bytedance/lightseq)
 [LightSeq2: LightSeq2: Accelerated Training for Transformer-based Models on GPUs](https://arxiv.org/pdf/2110.05722.pdf) |  |ByteDance  | SC 2022 
 [Blockwise Parallel Transformer for Large Context Models](https://arxiv.org/pdf/2305.19370.pdf) | Blockwise transformer | UCB | NeurIPS 2023 | [Github repo](https://github.com/kyegomez/Blockwise-Parallel-Transformer)
+
 ## Model Compression
+
 ### Quant
 |  Paper | Keywords|Institute (first)|Publication | Others 
 | :------------------: | :--------------: | :-----------: | :---------: | :---------:|
@@ -73,15 +75,18 @@ Since the emergence of chatGPT in 2022, the acceleration of Large Language Model
 |  Paper | Keywords|Institute (first)|Publication | Others 
 | :------------------: | :--------------: | :-----------: | :---------: | :---------:|
 [Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity](https://arxiv.org/abs/2309.10285) | | Univeristy of Sydney | VLDB 2024 | [Github repo](https://github.com/AlibabaResearch/flash-llm)
+
 ## Communication
 |  Paper | Keywords|Institute (first)|Publication | Others 
 | :------------------: | :--------------: | :-----------: | :---------: | :---------:|
 [Overlap communication with dependent compuation via Decompostion in Large Deep Learning Models](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959) | Overlap | Google | ASPLOS 2023 | 
 [Efficiently scaling Transformer inference](https://arxiv.org/abs/2211.05102) | Scaling | Google | Mlsys 2023 
+
 ## Energy
 |  Paper | Keywords|Institute (first)|Publication | Others 
 | :------------------: | :--------------: | :-----------: | :---------: | :---------:|
 [Zeus: Understanding and Optimizing GPU energy Consumption of DNN Training](https://www.usenix.org/system/files/nsdi23-you.pdf) | | Yale University | NSDI 2023 | [Github repo](https://github.com/ml-energy/zeus)
+
 ## Decentralized
 |  Paper | Keywords|Institute (first)|Publication | Others 
 | :------------------: | :--------------: | :-----------: | :---------: | :---------:|
