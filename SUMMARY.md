@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Awesome\_LLM\_Accelerate-PaperList](README.md)
+* [Awesome\_LLM\_System-PaperList](README.md)
