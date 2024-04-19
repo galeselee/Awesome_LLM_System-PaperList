@@ -110,6 +110,4 @@ description: >-
 
 ### Serveless
 
-|                                                        Paper                                                        | Keywords |      Institute (first)      | Publication |                                Others                               |
-| :-----------------------------------------------------------------------------------------------------------------: | :------: | :-------------------------: | :---------: | :-----------------------------------------------------------------: |
-| [ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models](https://arxiv.org/abs/2401.14351) |          | The University of Edinburgh |    Arxiv    | [Empty Github repo](https://github.com/ServerlessLLM/ServerlessLLM) |
+<table><thead><tr><th align="center">Paper</th><th align="center">Keywords</th><th width="187" align="center">Institute (first)</th><th align="center">Publication</th><th align="center">Others</th></tr></thead><tbody><tr><td align="center"><a href="https://arxiv.org/abs/2401.14351">ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models</a></td><td align="center"></td><td align="center">The University of Edinburgh</td><td align="center">Arxiv</td><td align="center"><a href="https://github.com/ServerlessLLM/ServerlessLLM">Empty Github repo</a></td></tr></tbody></table>
