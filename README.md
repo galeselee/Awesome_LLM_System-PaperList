@@ -59,20 +59,21 @@ description: >-
 
 ### Transformer accelerate
 
-|                                                             Paper                                                            |              Keywords              |        Institute (first)        |  Publication |                                   Others                                  |
-| :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :-----------------------------: | :----------: | :-----------------------------------------------------------------------: |
-|       [TurboTransformers: An Efficient GPU serving System For Transformer Models](https://arxiv.org/pdf/2010.05680.pdf)      |                                    |             Tencent             |  PPoPP 2021  |        [Github repo](https://github.com/Tencent/TurboTransformers)        |
-|        [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)       |   FlashAttention; Online Softmax   |       Stanford University       | NeurIPS 2023 |        [Github repo](https://github.com/Dao-AILab/flash-attention)        |
-|      [FlashAttention2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691)     |                                    |       Stanford University       |     Arxiv    |        [Github repo](https://github.com/Dao-AILab/flash-attention)        |
-|              [FlashDecoding++: Faster Large Language Model Inference on GPUs](https://arxiv.org/abs/2311.01282)              | Softmax with Unified Maximum Value |       Tsinghua University       |  Mlsys 2024  |                                                                           |
-|         [FlashFFTConv: Efficient Convolutions for Long Sentences with Tensor Cores](https://arxiv.org/abs/2311.05908)        |   FFT; TensorCore; Long Sentences  |       Stanford University       |     Arxiv    |       [Github repo](https://github.com/HazyResearch/flash-fft-conv)       |
-|             [FLAT: An Optimized Dataflow for Mitigating Attention Bottlenecks](https://arxiv.org/abs/2107.06419)             |                                    | Georgia Institute of Technology |  ASPLOS 2023 |                                                                           |
-|  [ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs](https://arxiv.org/pdf/2210.03052.pdf)  |       Variable-Length Inputs       |               UCR               |  PPoPP 2022  |        [Github repo](https://github.com/bytedance/ByteTransformer)        |
-|                 [Fast Transformer Decoding: One Write-Head is All You Need](https://arxiv.org/abs/1911.02150)                |                 MQA                |              Google             |     Arxiv    |                                                                           |
-| [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/pdf/2305.13245.pdf) |                 GQA                |         Google Research         |   ACL 2023   |                                                                           |
-|              [LightSeq: A High Performance Inference Library for Transformers](http://arxiv.org/abs/2010.13887)              |                                    |            ByteDance            |  NAACL 2021  |            [Github repo](https://github.com/bytedance/lightseq)           |
-|    [LightSeq2: LightSeq2: Accelerated Training for Transformer-based Models on GPUs](https://arxiv.org/pdf/2110.05722.pdf)   |                                    |            ByteDance            |    SC 2022   |                                                                           |
-|                [Blockwise Parallel Transformer for Large Context Models](https://arxiv.org/pdf/2305.19370.pdf)               |        Blockwise transformer       |               UCB               | NeurIPS 2023 | [Github repo](https://github.com/kyegomez/Blockwise-Parallel-Transformer) |
+|                            Paper                             |              Keywords              |        Institute (first)        | Publication  |                            Others                            |
+| :----------------------------------------------------------: | :--------------------------------: | :-----------------------------: | :----------: | :----------------------------------------------------------: |
+| [TurboTransformers: An Efficient GPU serving System For Transformer Models](https://arxiv.org/pdf/2010.05680.pdf) |                                    |             Tencent             |  PPoPP 2021  | [Github repo](https://github.com/Tencent/TurboTransformers)  |
+| [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) |   FlashAttention; Online Softmax   |       Stanford University       | NeurIPS 2023 | [Github repo](https://github.com/Dao-AILab/flash-attention)  |
+| [FlashAttention2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) |                                    |       Stanford University       |    Arxiv     | [Github repo](https://github.com/Dao-AILab/flash-attention)  |
+| [FlashDecoding++: Faster Large Language Model Inference on GPUs](https://arxiv.org/abs/2311.01282) | Softmax with Unified Maximum Value |       Tsinghua University       |  Mlsys 2024  |                                                              |
+| [FlashFFTConv: Efficient Convolutions for Long Sentences with Tensor Cores](https://arxiv.org/abs/2311.05908) |  FFT; TensorCore; Long Sentences   |       Stanford University       |    Arxiv     | [Github repo](https://github.com/HazyResearch/flash-fft-conv) |
+| [FLAT: An Optimized Dataflow for Mitigating Attention Bottlenecks](https://arxiv.org/abs/2107.06419) |                                    | Georgia Institute of Technology | ASPLOS 2023  |                                                              |
+| [ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs](https://arxiv.org/pdf/2210.03052.pdf) |       Variable-Length Inputs       |               UCR               |  PPoPP 2022  | [Github repo](https://github.com/bytedance/ByteTransformer)  |
+| [Fast Transformer Decoding: One Write-Head is All You Need](https://arxiv.org/abs/1911.02150) |                MQA                 |             Google              |    Arxiv     |                                                              |
+| [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/pdf/2305.13245.pdf) |                GQA                 |         Google Research         |   ACL 2023   |                                                              |
+| [LightSeq: A High Performance Inference Library for Transformers](http://arxiv.org/abs/2010.13887) |                                    |            ByteDance            |  NAACL 2021  |     [Github repo](https://github.com/bytedance/lightseq)     |
+| [LightSeq2: LightSeq2: Accelerated Training for Transformer-based Models on GPUs](https://arxiv.org/pdf/2110.05722.pdf) |                                    |            ByteDance            |   SC 2022    |                                                              |
+| [Blockwise Parallel Transformer for Large Context Models](https://arxiv.org/pdf/2305.19370.pdf) |       Blockwise transformer        |               UCB               | NeurIPS 2023 | [Github repo](https://github.com/kyegomez/Blockwise-Parallel-Transformer) |
+| [vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention](https://arxiv.org/abs/2405.04437) |     Dynamic Memory Management      |    Microsoft Research India     |    Arxiv     |                                                              |
 
 ### Model Compression
 
@@ -85,9 +86,11 @@ description: >-
 
 #### Punrning/sparisity
 
-|                                                                          Paper                                                                          | Keywords |   Institute (first)  | Publication |                            Others                           |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :------------------: | :---------: | :---------------------------------------------------------: |
-| [Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity](https://arxiv.org/abs/2309.10285) |          | Univeristy of Sydney |  VLDB 2024  | [Github repo](https://github.com/AlibabaResearch/flash-llm) |
+|                            Paper                             |              Keywords               |       Institute (first)       | Publication |                            Others                            |
+| :----------------------------------------------------------: | :---------------------------------: | :---------------------------: | :---------: | :----------------------------------------------------------: |
+| [Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity](https://arxiv.org/abs/2309.10285) |                                     |     Univeristy of Sydney      |  VLDB 2024  | [Github repo](https://github.com/AlibabaResearch/flash-llm)  |
+| [CLLMs: Consistency Large Language Models](https://arxiv.org/abs/2403.00835) |             Consistency             | Shanghai Jiao Tong University |    Arxiv    | [Github repo](https://github.com/hao-ai-lab/Consistency_LLM) |
+| [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670) | Disaggregating Prefill and Decoding |              PKU              |    Arxiv    |                                                              |
 
 ### Communication
 
