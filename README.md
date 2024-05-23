@@ -101,7 +101,7 @@ description: >-
 | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :---------------: | :---------: | :----: |
 | [Overlap communication with dependent compuation via Decompostion in Large Deep Learning Models](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959) |         Overlap         |       Google      | ASPLOS 2023 |        |
 |                                     [Efficiently scaling Transformer inference](https://arxiv.org/abs/2211.05102)                                    |         Scaling         |       Google      |  Mlsys 2023 |        |
-|                Centauri: Enabling efficient scheduling for communication-computation overlap in large model training via communication               | communication partition |        PKU        | ASPLOS 2024 |        |
+| [Centauri: Enabling efficient scheduling for communication-computation overlap in large model training via communication](https://dl.acm.org/doi/10.1145/3620666.3651379) | communication partition |        PKU        | ASPLOS 2024 |        |
 
 ### Energy
 
