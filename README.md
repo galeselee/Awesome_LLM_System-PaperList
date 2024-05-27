@@ -53,6 +53,8 @@ description: >-
 | [PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference](https://arxiv.org/abs/2405.12532) |                     KV Cache Compression                     | Shanghai Jiao Tong University |    Arxiv     |                                                              |
 | [You Only Cache Once: Decoder-Decoder Architectures for Language Models](https://arxiv.org/abs/2405.05254) |                           KV Cache                           |      Microsoft Research       |    Arxiv     |                                                              |
 | [Better & Faster Large Language Models via Multi-token Prediction](https://arxiv.org/abs/2404.19737) |                    Multi-token Prediction                    |             Meta              |    Arxiv     |                                                              |
+| [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/abs/2404.07947) |      Decouple         |   Hanyang University     |    ASPLOS 2024     |                   |
+
 
 ### Operating System
 
