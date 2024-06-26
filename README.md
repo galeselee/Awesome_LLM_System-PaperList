@@ -55,6 +55,7 @@ description: >-
 | [Better & Faster Large Language Models via Multi-token Prediction](https://arxiv.org/abs/2404.19737) |                    Multi-token Prediction                    |             Meta              |    Arxiv     |                                                              |
 | [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/abs/2404.07947) |      Decouple         |   Hanyang University     |    ASPLOS 2024     |                   |
 | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://arxiv.org/abs/2405.19888) |    LLM Applications        |   SJTU    |    OSDI 2024     |                   |
+| [Fairness in Serving Large Language Models](https://arxiv.org/abs/2401.00588) | Fairness; LLM Serving | UC Berkeley,Stanford University | OSDI 2024 |  | 
 
 
 ### Operating System
