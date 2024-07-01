@@ -53,6 +53,9 @@ description: >-
 | [PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference](https://arxiv.org/abs/2405.12532) |                     KV Cache Compression                     | Shanghai Jiao Tong University |    Arxiv     |                                                              |
 | [You Only Cache Once: Decoder-Decoder Architectures for Language Models](https://arxiv.org/abs/2405.05254) |                           KV Cache                           |      Microsoft Research       |    Arxiv     |                                                              |
 | [Better & Faster Large Language Models via Multi-token Prediction](https://arxiv.org/abs/2404.19737) |                    Multi-token Prediction                    |             Meta              |    Arxiv     |                                                              |
+| [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/abs/2404.07947) |      Decouple         |   Hanyang University     |    ASPLOS 2024     |                   |
+| [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://arxiv.org/abs/2405.19888) |    LLM Applications        |   SJTU    |    OSDI 2024     |                   |
+| [Fairness in Serving Large Language Models](https://arxiv.org/abs/2401.00588) | Fairness; LLM Serving | UC Berkeley,Stanford University | OSDI 2024 |  | 
 | [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) |                           KV Cache                           |          Moonshot AI          |    GitHub    |                                                              |
 
 ### Operating System
@@ -102,7 +105,7 @@ description: >-
 | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :---------------: | :---------: | :----: |
 | [Overlap communication with dependent compuation via Decompostion in Large Deep Learning Models](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959) |         Overlap         |       Google      | ASPLOS 2023 |        |
 |                                     [Efficiently scaling Transformer inference](https://arxiv.org/abs/2211.05102)                                    |         Scaling         |       Google      |  Mlsys 2023 |        |
-|                Centauri: Enabling efficient scheduling for communication-computation overlap in large model training via communication               | communication partition |        PKU        | ASPLOS 2024 |        |
+| [Centauri: Enabling efficient scheduling for communication-computation overlap in large model training via communication](https://dl.acm.org/doi/10.1145/3620666.3651379) | communication partition |        PKU        | ASPLOS 2024 |        |
 
 ### Energy
 
@@ -119,4 +122,13 @@ description: >-
 
 ### Serveless
 
-<table><thead><tr><th align="center">Paper</th><th align="center">Keywords</th><th width="187" align="center">Institute (first)</th><th align="center">Publication</th><th align="center">Others</th></tr></thead><tbody><tr><td align="center"><a href="https://arxiv.org/abs/2401.14351">ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models</a></td><td align="center"></td><td align="center">The University of Edinburgh</td><td align="center">Arxiv</td><td align="center"><a href="https://github.com/ServerlessLLM/ServerlessLLM">Empty Github repo</a></td></tr></tbody></table>
+|                                                             Paper                                                            |      Keywords      | Institute (first) | Publication | Others |
+| :--------------------------------------------------------------------------------------------------------------------------: | :----------------: | :---------------: | :---------: | :----: |
+| [ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models](https://arxiv.org/abs/2401.14351) | cold boot |        The University of Edinburgh       |    OSDI 2024    | [Empty Github](https://github.com/ServerlessLLM/ServerlessLLM)  |
+
+
+### Trace
+|                                                             Paper                                                            |      Keywords      | Institute (first) | Publication | Others |
+| :--------------------------------------------------------------------------------------------------------------------------: | :----------------: | :---------------: | :---------: | :----: |
+| [Characterization of Large Language Model Development in the Datacenter](https://arxiv.org/abs/2403.07648) | Cluster trace(for LLM) | ShangHai AI Lab |    NSDI 2024    | [Github](https://github.com/InternLM/AcmeTrace)  |
+
