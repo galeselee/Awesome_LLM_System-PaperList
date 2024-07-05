@@ -57,6 +57,7 @@ description: >-
 | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://arxiv.org/abs/2405.19888) |    LLM Applications        |   SJTU    |    OSDI 2024     |                   |
 | [Fairness in Serving Large Language Models](https://arxiv.org/abs/2401.00588) | Fairness; LLM Serving | UC Berkeley,Stanford University | OSDI 2024 |  | 
 | [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) |                           KV Cache                           |          Moonshot AI          |    GitHub    |                                                              |
+| [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/pdf/2407.02490) | Pre-fillingfor Long-Context<br />Dynamic Sparse Attention | Microsoft | Arxiv | [Github repo](https://github.com/microsoft/MInference?tab=readme-ov-file) |
 
 ### Operating System
 
