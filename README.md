@@ -42,7 +42,7 @@ description: >-
 | [Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline](https://arxiv.org/abs/2305.13144) |                      Length Perception                       |              NUS              | NeurIPS 2023 | [Github repo](https://github.com/zhengzangw/Sequence-Scheduling) |
 | [S3: Increasing GPU Utilization during Generative Inference for Higher Throughput](https://arxiv.org/abs/2306.06000) |                                                              |      Harvard University       |    Arxiv     |                                                              |
 | [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670) |                           Decouple                           |              PKU              |  OSDI 2024   |                                                              |
-| [Splitwise: Efficient generative LLM inference using phase splitting](https://arxiv.org/abs/2311.18677) |                           Decouple                           |              UW               |  OSDI 2024   | [Track issue](https://github.com/vllm-project/vllm/issues/2472) |
+| [Splitwise: Efficient generative LLM inference using phase splitting](https://arxiv.org/abs/2311.18677) |                           Decouple                           |              UW               |  ISCA 2024   | [Track issue](https://github.com/vllm-project/vllm/issues/2472) |
 | [Efficiently Programming Large Language Models using SGLang](https://arxiv.org/abs/2312.07104) |                        Agent Language                        |              UCB              |    Arxiv     |     [Github repo](https://github.com/sgl-project/sglang)     |
 | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) |                          Single GPU                          |      Stanford University      |    Arxiv     |    [Github repo](https://github.com/FMInference/FlexGen)     |
 | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://arxiv.org/abs/2403.02310) |                           Decouple                           |            GaTech             |  OSDI 2024   |                                                              |
@@ -58,6 +58,7 @@ description: >-
 | [Fairness in Serving Large Language Models](https://arxiv.org/abs/2401.00588) | Fairness; LLM Serving | UC Berkeley,Stanford University | OSDI 2024 |  | 
 | [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) |                           KV Cache                           |          Moonshot AI          |    GitHub    |                                                              |
 | [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/pdf/2407.02490) | Pre-fillingfor Long-Context<br />Dynamic Sparse Attention | Microsoft | Arxiv | [Github repo](https://github.com/microsoft/MInference?tab=readme-ov-file) |
+| [MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool](https://arxiv.org/abs/2406.17565) | Memory Pool | Huawei | Arxiv | |
 
 ### Operating System
 
