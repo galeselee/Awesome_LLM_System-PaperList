@@ -133,4 +133,5 @@ description: >-
 |                                                             Paper                                                            |      Keywords      | Institute (first) | Publication | Others |
 | :--------------------------------------------------------------------------------------------------------------------------: | :----------------: | :---------------: | :---------: | :----: |
 | [Characterization of Large Language Model Development in the Datacenter](https://arxiv.org/abs/2403.07648) | Cluster trace(for LLM) | ShangHai AI Lab |    NSDI 2024    | [Github](https://github.com/InternLM/AcmeTrace)  |
+| [BurstGPT: A Real-world Workload Dataset to Optimize LLM Serving Systems](https://arxiv.org/abs/2401.17644) | GPT users trace | HKUSTGZ | Arxiv 2024 | [Github](https://github.com/HPMLL/BurstGPT/)|
 
