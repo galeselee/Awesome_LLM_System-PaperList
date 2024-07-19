@@ -17,7 +17,6 @@ description: >-
 | [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://arxiv.org/abs/2312.15234v1) | Optimization technique: quant, pruning, continuous batching, virtual memory |          CMU          |              Arxiv              |                                                     |
 |                    [LLM Inference Unveiled: Survey and Roofline Model Insights](https://arxiv.org/abs/2402.16363)                    |                             Performance analysis                            |     Infinigence-AI    |              Arxiv              | [LLMViewer](https://github.com/hahnyuan/LLM-Viewer) |
 | [LLM Inference Serving: Survey of Recent Advances and Opportunities](https://arxiv.org/abs/2407.12391v1) | | Northeastern University | Arxiv | |
-| [LLM Inference Unveiled: Survey and Roofline Model Insights](https://arxiv.org/abs/2402.16363) | Roofline | Infinigence-AI | Arxiv | |
 | [Efficient Large Language Models: A Survey](https://arxiv.org/pdf/2312.03863) | | The Ohio State University | Transactions on Machine Learning Research | |
 
 ### Framework
