@@ -99,8 +99,10 @@ description: >-
 
 |                                                    Paper                                                    |       Keywords      | Institute (first) | Publication |                     Others                     |
 | :---------------------------------------------------------------------------------------------------------: | :-----------------: | :---------------: | :---------: | :--------------------------------------------: |
-|     [Atom: Low-bit Quantization for Efficient and Accurate LLM Serving](http://arxiv.org/abs/2310.19102)    |                     |        SJTU       |    Arxiv    | [Github repo](https://github.com/efeslab/Atom) |
+|     [Atom: Low-bit Quantization for Efficient and Accurate LLM Serving](http://arxiv.org/abs/2310.19102)    |                     |        SJTU       |    mlsys 2024    | [Github repo](https://github.com/efeslab/Atom) |
 | [Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference](https://arxiv.org/abs/2403.09636) | Dynamic Compression |       NVIDIA      |    Arxiv    |                                                |
+| [Quant-LLM: Accelerating the Serving of Large Language Models via FP6-Centric Algorithm-System Co-Design on Modern GPUs](https://www.usenix.org/conference/atc24/presentation/xia) | FP6 | USYD | ATC 2024 | |
+| [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978) | AWQ | MIT | mlsys 2024 bp| |
 
 #### Punrning/sparisity
 
