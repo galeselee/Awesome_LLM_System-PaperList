@@ -123,7 +123,8 @@ description: >-
 
 |                                                              Paper                                                              | Keywords | Institute (first) | Publication |                      Others                      |
 | :-----------------------------------------------------------------------------------------------------------------------------: | :------: | :---------------: | :---------: | :----------------------------------------------: |
-| [Zeus: Understanding and Optimizing GPU energy Consumption of DNN Training](https://www.usenix.org/system/files/nsdi23-you.pdf) |          |  Yale University  |  NSDI 2023  | [Github repo](https://github.com/ml-energy/zeus) | [Power-aware Deep Learning Model Serving with μ-Serve](https://www.usenix.org/system/files/atc24-qiu.pdf) | | UIUC | ATC 2024 | |
+| [Zeus: Understanding and Optimizing GPU energy Consumption of DNN Training](https://www.usenix.org/system/files/nsdi23-you.pdf) |          |  Yale University  |  NSDI 2023  | [Github repo](https://github.com/ml-energy/zeus) 
+| [Power-aware Deep Learning Model Serving with μ-Serve](https://www.usenix.org/system/files/atc24-qiu.pdf) | | UIUC | ATC 2024 | |
 
 ### Decentralized
 
