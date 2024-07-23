@@ -63,6 +63,7 @@ description: >-
 | [MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool](https://arxiv.org/abs/2406.17565) | Memory Pool | Huawei | Arxiv | |
 | [InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management](https://www.usenix.org/conference/osdi24/presentation/lee) | sparisity | Seoul National University | OSDI 2024 | |
 | [Llumnix: Dynamic Scheduling for Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/sun-biao) | Preemptible GPU | Alibaba Group | OSDI 2024 | |
+| [PUZZLE: Efficiently Aligning Large Language Models through Light-Weight Context Switch](https://www.usenix.org/conference/atc24/presentation/lei) | Multi-Agent | Tsinghua University ｜ ATC 2024 | |
 
 
 
