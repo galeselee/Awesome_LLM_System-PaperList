@@ -64,6 +64,8 @@ description: >-
 | [InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management](https://www.usenix.org/conference/osdi24/presentation/lee) | sparisity | Seoul National University | OSDI 2024 | |
 | [Llumnix: Dynamic Scheduling for Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/sun-biao) | Preemptible GPU | Alibaba Group | OSDI 2024 | |
 | [PUZZLE: Efficiently Aligning Large Language Models through Light-Weight Context Switch](https://www.usenix.org/conference/atc24/presentation/lei) | Multi-Agent | Tsinghua University ｜ ATC 2024 | |
+| [SampleAttention: Near-Lossless Acceleration of Long Context LLM Inference with Adaptive Structured Sparse Attention](https://arxiv.org/abs/2406.15486) | Sparsity; Long context | PKU | Arxiv |  |
+| [Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2406.10774) | Sparsity; Related token | MIT | ICML 2024 | |
 
 
 
