@@ -130,6 +130,7 @@ description: >-
 |                                                             Paper                                                            |      Keywords      | Institute (first) | Publication | Others |
 | :--------------------------------------------------------------------------------------------------------------------------: | :----------------: | :---------------: | :---------: | :----: |
 | [ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models](https://arxiv.org/abs/2401.14351) | cold boot |        The University of Edinburgh       |    OSDI 2024    | [Empty Github](https://github.com/ServerlessLLM/ServerlessLLM)  |
+| [StreamBox: A Lightweight GPU SandBox for Serverless Inference Workflow](https://www.usenix.org/conference/atc24/presentation/wu-hao) | | HUST | ATC 2024 | [Github](https://github.com/CGCL-codes/streambox) |
 
 
 ### Trace
