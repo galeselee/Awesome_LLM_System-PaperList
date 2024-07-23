@@ -63,6 +63,7 @@ description: >-
 | [MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool](https://arxiv.org/abs/2406.17565) | Memory Pool | Huawei | Arxiv | |
 
 
+
 ### Operating System
 
 |                                 Paper                                |    Keywords   |  Institute(first)  | Publication | Others |
@@ -102,7 +103,6 @@ description: >-
 | :----------------------------------------------------------: | :---------------------------------: | :---------------------------: | :---------: | :----------------------------------------------------------: |
 | [Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity](https://arxiv.org/abs/2309.10285) |                                     |     Univeristy of Sydney      |  VLDB 2024  | [Github repo](https://github.com/AlibabaResearch/flash-llm)  |
 | [CLLMs: Consistency Large Language Models](https://arxiv.org/abs/2403.00835) |             Consistency             | Shanghai Jiao Tong University |    Arxiv    | [Github repo](https://github.com/hao-ai-lab/Consistency_LLM) |
-| [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670) | Disaggregating Prefill and Decoding |              PKU              |    Arxiv    |                                                              |
 
 ### Communication
 
