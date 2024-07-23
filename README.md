@@ -61,6 +61,8 @@ description: >-
 | [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) |                           KV Cache                           |          Moonshot AI          |    GitHub    |                                                              |
 | [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/pdf/2407.02490) | Pre-fillingfor Long-Context<br />Dynamic Sparse Attention | Microsoft | Arxiv | [Github repo](https://github.com/microsoft/MInference?tab=readme-ov-file) |
 | [MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool](https://arxiv.org/abs/2406.17565) | Memory Pool | Huawei | Arxiv | |
+| [InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management](https://www.usenix.org/conference/osdi24/presentation/lee) | sparisity | Seoul National University | OSDI 2024 | |
+
 
 
 
