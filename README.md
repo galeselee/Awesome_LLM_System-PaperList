@@ -50,7 +50,7 @@ description: >-
 | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://arxiv.org/abs/2403.02310) |                           Decouple                           |            GaTech             |  OSDI 2024   |                                                              |
 | [SpotServe: Serving Generative Large Language Models on Preemptible Instances](https://arxiv.org/abs/2311.15566) |                       Preemptible GPU                        |              CMU              | ASPLOS 2024  |   [Empty Github repo](https://github.com/hsword/spotserve)   |
 | [SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification](https://arxiv.org/abs/2305.09781) |                    Tree-based Speculative                    |              CMU              | ASPLOS 2024  |                                                              |
-| [AttentionStore: Cost-effective Attention Reuse across Multi-turn Conversations in Large Language Model Serving](https://arxiv.org/abs/2403.19708) |  Cache the multi-turn prefill KV-cache in host-DRAM and SSD  |              NUS              |    Arxiv     |                                                              |
+| [AttentionStore: Cost-effective Attention Reuse across Multi-turn Conversations in Large Language Model Serving](https://arxiv.org/abs/2403.19708) |  Cache the multi-turn prefill KV-cache in host-DRAM and SSD  |              NUS              |    ATC 2024     |                                                              |
 | [MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving](https://arxiv.org/pdf/2404.02015.pdf) | Use spatial-temporal multiplexing method to serve multi-LLMs |             MMLab             |    Arxiv     |                                                              |
 | [PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference](https://arxiv.org/abs/2405.12532) |                     KV Cache Compression                     | Shanghai Jiao Tong University |    Arxiv     |                                                              |
 | [You Only Cache Once: Decoder-Decoder Architectures for Language Models](https://arxiv.org/abs/2405.05254) |                           KV Cache                           |      Microsoft Research       |    Arxiv     |                                                              |
@@ -61,6 +61,7 @@ description: >-
 | [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) |                           KV Cache                           |          Moonshot AI          |    GitHub    |                                                              |
 | [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/pdf/2407.02490) | Pre-fillingfor Long-Context<br />Dynamic Sparse Attention | Microsoft | Arxiv | [Github repo](https://github.com/microsoft/MInference?tab=readme-ov-file) |
 | [MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool](https://arxiv.org/abs/2406.17565) | Memory Pool | Huawei | Arxiv | |
+
 
 ### Operating System
 
