@@ -55,10 +55,11 @@ description: >-
 | [Better & Faster Large Language Models via Multi-token Prediction](https://arxiv.org/abs/2404.19737) |                    Multi-token Prediction                    |             Meta              |    Arxiv     |                                                              |
 | [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/abs/2404.07947) |      Decouple         |   Hanyang University     |    ASPLOS 2024     |                   |
 | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://arxiv.org/abs/2405.19888) |    LLM Applications        |   SJTU    |    OSDI 2024     |                   |
-| [Fairness in Serving Large Language Models](https://arxiv.org/abs/2401.00588) | Fairness; LLM Serving | UC Berkeley,Stanford University | OSDI 2024 |  | 
+| [Fairness in Serving Large Language Models](https://arxiv.org/abs/2401.00588) | Fairness; LLM Serving | UC Berkeley,Stanford University | OSDI 2024 |  |
 | [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) |                           KV Cache                           |          Moonshot AI          |    GitHub    |                                                              |
 | [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/pdf/2407.02490) | Pre-fillingfor Long-Context<br />Dynamic Sparse Attention | Microsoft | Arxiv | [Github repo](https://github.com/microsoft/MInference?tab=readme-ov-file) |
 | [MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool](https://arxiv.org/abs/2406.17565) | Memory Pool | Huawei | Arxiv | |
+| [Accelerating Production LLMs with Combined Token/Embedding Speculators](https://arxiv.org/abs/2404.19124) | Speculative decoding | IBM Research | Arxiv | [Github repo](https://github.com/foundation-model-stack/fms-fsdp) |
 
 ### Operating System
 
