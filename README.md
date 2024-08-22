@@ -105,7 +105,7 @@ description: >-
 | [Quant-LLM: Accelerating the Serving of Large Language Models via FP6-Centric Algorithm-System Co-Design on Modern GPUs](https://www.usenix.org/conference/atc24/presentation/xia) | FP6 | USYD | ATC 2024 | |
 | [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978) | AWQ | MIT | mlsys 2024 bp| |
 
-#### Punrning/sparisity
+#### Pruning/sparisity
 
 |                            Paper                             |              Keywords               |       Institute (first)       | Publication |                            Others                            |
 | :----------------------------------------------------------: | :---------------------------------: | :---------------------------: | :---------: | :----------------------------------------------------------: |
