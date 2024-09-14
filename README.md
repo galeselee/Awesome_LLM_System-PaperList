@@ -98,7 +98,7 @@ description: >-
 
 ### Model Compression
 
-#### Quant
+#### Quant and Pruning
 
 |                                                    Paper                                                    |       Keywords      | Institute (first) | Publication |                     Others                     |
 | :---------------------------------------------------------------------------------------------------------: | :-----------------: | :---------------: | :---------: | :--------------------------------------------: |
@@ -106,11 +106,6 @@ description: >-
 | [Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference](https://arxiv.org/abs/2403.09636) | Dynamic Compression |       NVIDIA      |    Arxiv    |                                                |
 | [Quant-LLM: Accelerating the Serving of Large Language Models via FP6-Centric Algorithm-System Co-Design on Modern GPUs](https://www.usenix.org/conference/atc24/presentation/xia) | FP6 | USYD | ATC 2024 | |
 | [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978) | AWQ | MIT | mlsys 2024 bp| |
-
-#### Pruning/sparisity
-
-|                            Paper                             |              Keywords               |       Institute (first)       | Publication |                            Others                            |
-| :----------------------------------------------------------: | :---------------------------------: | :---------------------------: | :---------: | :----------------------------------------------------------: |
 | [Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity](https://arxiv.org/abs/2309.10285) |                                     |     Univeristy of Sydney      |  VLDB 2024  | [Github repo](https://github.com/AlibabaResearch/flash-llm)  |
 | [CLLMs: Consistency Large Language Models](https://arxiv.org/abs/2403.00835) |             Consistency             | Shanghai Jiao Tong University |    Arxiv    | [Github repo](https://github.com/hao-ai-lab/Consistency_LLM) |
 
