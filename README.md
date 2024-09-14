@@ -108,6 +108,12 @@ description: >-
 | [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978) | AWQ | MIT | mlsys 2024 bp| |
 | [Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity](https://arxiv.org/abs/2309.10285) |                                     |     Univeristy of Sydney      |  VLDB 2024  | [Github repo](https://github.com/AlibabaResearch/flash-llm)  |
 | [CLLMs: Consistency Large Language Models](https://arxiv.org/abs/2403.00835) |             Consistency             | Shanghai Jiao Tong University |    Arxiv    | [Github repo](https://github.com/hao-ai-lab/Consistency_LLM) |
+| [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323) |  | ETH | ICLR 2023 |
+| [WoodFisher: Efficient Second-Order Approximation for Neural Network Compression](https://proceedings.neurips.cc/paper/2020/file/d1ff1ec86b62cd5f3903ff19c3a326b2-Paper.pdf) | | ETH | NeurIPS 2020 | 
+| [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438) | | MIT | PMLR 2023 |
+| [QuIP: 2-Bit Quantization of Large Language Models With Guarantees](https://arxiv.org/abs/2307.13304) | | Cornell University | NeurIPS 2023 |
+| [QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks](https://arxiv.org/pdf/2402.04396) | | Cornell University | PMLR 2024 |
+
 
 ### Communication
 
