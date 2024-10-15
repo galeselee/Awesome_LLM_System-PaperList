@@ -32,6 +32,7 @@ description: >-
 | [Text-Generation-Inference(TGI)](https://github.com/huggingface/text-generation-inference) |                                              |                Huggingface                 |             |                                                       |
 | [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://arxiv.org/abs/2408.12757) | Distributed, Parallel, and Cluster Computing |          University of Washington          |    Arxiv    |  [Github repo](https://github.com/efeslab/Nanoflow)   |
 |        [rtp-llm](https://github.com/alibaba/rtp-llm)         |                                              |                  Alibaba                   |             |   [Github repo](https://github.com/alibaba/rtp-llm)   |
+| [Efficiently Programming Large Language Models using SGLang](https://arxiv.org/abs/2312.07104) |                        Agent Language                        |              UCB              |    Arxiv     |     [Github repo](https://github.com/sgl-project/sglang)     |
 
 ### Serving
 
@@ -47,7 +48,6 @@ description: >-
 | [S3: Increasing GPU Utilization during Generative Inference for Higher Throughput](https://arxiv.org/abs/2306.06000) |                                                              |      Harvard University       |    Arxiv     |                                                              |
 | [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670) |                           Decouple                           |              PKU              |  OSDI 2024   |                                                              |
 | [Splitwise: Efficient generative LLM inference using phase splitting](https://arxiv.org/abs/2311.18677) |                           Decouple                           |              UW               |  ISCA 2024   | [Track issue](https://github.com/vllm-project/vllm/issues/2472) |
-| [Efficiently Programming Large Language Models using SGLang](https://arxiv.org/abs/2312.07104) |                        Agent Language                        |              UCB              |    Arxiv     |     [Github repo](https://github.com/sgl-project/sglang)     |
 | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) |                          Single GPU                          |      Stanford University      |    Arxiv     |    [Github repo](https://github.com/FMInference/FlexGen)     |
 | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://arxiv.org/abs/2403.02310) |                           Decouple                           |            GaTech             |  OSDI 2024   |                                                              |
 | [SpotServe: Serving Generative Large Language Models on Preemptible Instances](https://arxiv.org/abs/2311.15566) |                       Preemptible GPU                        |              CMU              | ASPLOS 2024  |   [Empty Github repo](https://github.com/hsword/spotserve)   |
@@ -71,6 +71,7 @@ description: >-
 | [Accelerating Production LLMs with Combined Token/Embedding Speculators](https://arxiv.org/abs/2404.19124) | Speculative decoding | IBM Research | Arxiv | [Github repo](https://github.com/foundation-model-stack/fms-fsdp) |
 | [LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference](https://arxiv.org/abs/2407.14057) | KV Cache | Apple | Arxiv |  |
 | [Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU](https://arxiv.org/abs/2409.09086v1) | Attention Saddles,KV cache | Shanghai Jiao Tong University | Arxiv | |
+| [TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text](https://arxiv.org/abs/2410.07590?context=cs) | KV Cache for RAG | Moore Threads AI | Arxiv | [Github repo](https://github.com/MooreThreads/TurboRAG) |
 
 
 ### Operating System
