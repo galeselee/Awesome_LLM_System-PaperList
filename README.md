@@ -74,7 +74,10 @@ description: >-
 | [TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text](https://arxiv.org/abs/2410.07590?context=cs) | KV Cache for RAG | Moore Threads AI | Arxiv | [Github repo](https://github.com/MooreThreads/TurboRAG) 
 | [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453) | StreamingLLM, Static sparsity | MIT | ICLR 2024 | [Github repo](https://github.com/mit-han-lab/streaming-llm) | 
 | [H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models](https://arxiv.org/abs/2306.14048) | sparsity attention | UT Austin | nips 2024 
-| [SampleAttention: Near-Lossless Acceleration of Long Context LLM Inference with Adaptive Structured Sparse Attention](https://arxiv.org/abs/2406.15486) | sparsity attention | PKU | arxiv
+| [SparQ Attention: Bandwidth-Efficient LLM Inference](https://arxiv.org/abs/2312.04985) | sparsity attention | GraphCore | ICML 2024
+| [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490) | sparsity attention | msra | arxiv
+| [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://arxiv.org/abs/2409.10516) | Vector Retrieval | msra | arxiv
+
 
 
 
