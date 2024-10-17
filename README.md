@@ -71,7 +71,8 @@ description: >-
 | [Accelerating Production LLMs with Combined Token/Embedding Speculators](https://arxiv.org/abs/2404.19124) | Speculative decoding | IBM Research | Arxiv | [Github repo](https://github.com/foundation-model-stack/fms-fsdp) |
 | [LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference](https://arxiv.org/abs/2407.14057) | KV Cache | Apple | Arxiv |  |
 | [Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU](https://arxiv.org/abs/2409.09086v1) | Attention Saddles,KV cache | Shanghai Jiao Tong University | Arxiv | |
-| [TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text](https://arxiv.org/abs/2410.07590?context=cs) | KV Cache for RAG | Moore Threads AI | Arxiv | [Github repo](https://github.com/MooreThreads/TurboRAG) |
+| [TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text](https://arxiv.org/abs/2410.07590?context=cs) | KV Cache for RAG | Moore Threads AI | Arxiv | [Github repo](https://github.com/MooreThreads/TurboRAG) 
+| [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453) | StreamingLLM, Static sparsity | MIT | ICLR 2024 | [Github repo](https://github.com/mit-han-lab/streaming-llm) | 
 
 
 ### Operating System
