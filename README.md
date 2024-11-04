@@ -111,7 +111,7 @@ description: >-
 
 |                                                    Paper                                                    |       Keywords      | Institute (first) | Publication |                     Others                     |
 | :---------------------------------------------------------------------------------------------------------: | :-----------------: | :---------------: | :---------: | :--------------------------------------------: |
-|     [Atom: Low-bit Quantization for Efficient and Accurate LLM Serving](http://arxiv.org/abs/2310.19102)    |                     |        SJTU       |    mlsys 2024    | [Github repo](https://github.com/efeslab/Atom) |
+| [Atom: Low-bit Quantization for Efficient and Accurate LLM Serving](http://arxiv.org/abs/2310.19102)    |                     |        SJTU       |    mlsys 2024    | [Github repo](https://github.com/efeslab/Atom) |
 | [Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference](https://arxiv.org/abs/2403.09636) | Dynamic Compression |       NVIDIA      |    Arxiv    |                                                |
 | [Quant-LLM: Accelerating the Serving of Large Language Models via FP6-Centric Algorithm-System Co-Design on Modern GPUs](https://www.usenix.org/conference/atc24/presentation/xia) | FP6 | USYD | ATC 2024 | |
 | [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978) | AWQ | MIT | mlsys 2024 bp| |
@@ -122,6 +122,7 @@ description: >-
 | [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438) | | MIT | PMLR 2023 |
 | [QuIP: 2-Bit Quantization of Large Language Models With Guarantees](https://arxiv.org/abs/2307.13304) | | Cornell University | NeurIPS 2023 |
 | [QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks](https://arxiv.org/pdf/2402.04396) | | Cornell University | PMLR 2024 |
+| [VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2409.17066) | VQ | MSRA | EMNLP 2024 |
 
 
 ### Communication
