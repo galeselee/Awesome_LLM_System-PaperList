@@ -129,6 +129,7 @@ description: >-
 | [PQCache: Product Quantization-based KVCache for Long Context LLM Inference](https://arxiv.org/abs/2407.12820) | PQ | PKU | arxiv 2024 |
 | [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://huggingface.co/papers/2409.10516) | ANNs | MSRA | arxiv 2024 |
 | [Transformer-VQ: Linear-Time Transformers via Vector Quantization](https://arxiv.org/abs/2309.16354) | VQ | Independent Researcher| ICLR 2024
+| [KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache](https://arxiv.org/abs/2402.02750) | KVCache | Rice University | ICML 2024
 
 
 ### Communication
