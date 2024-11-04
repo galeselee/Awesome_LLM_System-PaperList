@@ -126,7 +126,8 @@ description: >-
 | [QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks](https://arxiv.org/pdf/2402.04396) | | Cornell University | PMLR 2024 |
 | [VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2409.17066) | VQ | MSRA | EMNLP 2024 |
 | [GPTVQ: The Blessing of Dimensionality for LLM Quantization](https://arxiv.org/abs/2402.15319) | VQ | Qualcomm AI Research | ICML 2024 |
-| [PQCache: Product Quantization-based KVCache for Long Context LLM Inference] | PQ | PKU | arxiv 2024
+| [PQCache: Product Quantization-based KVCache for Long Context LLM Inference](https://arxiv.org/abs/2407.12820) | PQ | PKU | arxiv 2024 |
+| [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://huggingface.co/papers/2409.10516) | ANNs | MSRA | arxiv 2024 |
 
 
 ### Communication
