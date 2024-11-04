@@ -33,6 +33,8 @@ description: >-
 | [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://arxiv.org/abs/2408.12757) | Distributed, Parallel, and Cluster Computing |          University of Washington          |    Arxiv    |  [Github repo](https://github.com/efeslab/Nanoflow)   |
 |        [rtp-llm](https://github.com/alibaba/rtp-llm)         |                                              |                  Alibaba                   |             |   [Github repo](https://github.com/alibaba/rtp-llm)   |
 | [Efficiently Programming Large Language Models using SGLang](https://arxiv.org/abs/2312.07104) |                        Agent Language                        |              UCB              |    Arxiv     |     [Github repo](https://github.com/sgl-project/sglang)     |
+| [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/abs/2409.19256) | RLHF Training | ByteDance | Eurosys 2024 | [Github Repo](https://github.com/volcengine/verl) |
+
 
 ### Serving
 
