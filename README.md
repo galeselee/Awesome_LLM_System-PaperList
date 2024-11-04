@@ -119,6 +119,7 @@ description: >-
 | [CLLMs: Consistency Large Language Models](https://arxiv.org/abs/2403.00835) |             Consistency             | Shanghai Jiao Tong University |    Arxiv    | [Github repo](https://github.com/hao-ai-lab/Consistency_LLM) |
 | [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323) |  | ETH | ICLR 2023 |
 | [Optimal Brain Damage(OBD)](https://proceedings.neurips.cc/paper/1989/hash/6c9882bbac1c7093bd25041881277658-Abstract.html) | Breaking work | AT&T bell | NIPS 2rd |
+| [Optimal Brain Surgeon:Extensions and performance comparisons](https://proceedings.neurips.cc/paper/1993/file/b056eb1587586b71e2da9acfe4fbd19e-Paper.pdf) | Breaking work | standford | NIPS 1993
 | [WoodFisher: Efficient Second-Order Approximation for Neural Network Compression](https://proceedings.neurips.cc/paper/2020/file/d1ff1ec86b62cd5f3903ff19c3a326b2-Paper.pdf) | | ETH | NeurIPS 2020 | 
 | [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438) | | MIT | PMLR 2023 |
 | [QuIP: 2-Bit Quantization of Large Language Models With Guarantees](https://arxiv.org/abs/2307.13304) | | Cornell University | NeurIPS 2023 |
