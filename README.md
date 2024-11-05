@@ -81,6 +81,8 @@ description: >-
 | [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490) | sparsity attention | msra | arxiv
 | [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://arxiv.org/abs/2409.10516) | Vector Retrieval | msra | arxiv
 | [CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion](https://arxiv.org/pdf/2405.16444) | KV Cache cross | University of Chicago | Eurosys |
+| [Epic: Efficient Position-Independent Context Caching for Serving Large Language Models](https://arxiv.org/pdf/2410.15332) | Position independent | PKU | arxiv|
+
 
 
 
