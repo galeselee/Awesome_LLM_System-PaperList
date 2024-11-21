@@ -35,6 +35,7 @@ description: >-
 | [Efficiently Programming Large Language Models using SGLang](https://arxiv.org/abs/2312.07104) |                        Agent Language                        |              UCB              |    Arxiv     |     [Github repo](https://github.com/sgl-project/sglang)     |
 | [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/abs/2409.19256) | RLHF Training | ByteDance | Eurosys 2024 | [Github Repo](https://github.com/volcengine/verl) |
 | [ReaLHF: Optimized RLHF Training for Large Language Models through Parameter Reallocation](https://arxiv.org/abs/2406.14088) | RLHF Training | THU | Arxiv | [Github Repo](https://github.com/openpsi-project/ReaLHF) 
+| [Enabling Parallelism Hot Switching for Efficient Training of Large Language Models](https://dl.acm.org/doi/10.1145/3694715.3695969) | | Peking University | SOSP 2024 | 
 
 
 ### Serving
@@ -83,7 +84,6 @@ description: >-
 | [CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion](https://arxiv.org/pdf/2405.16444) | KV Cache cross | University of Chicago | Eurosys |
 | [Epic: Efficient Position-Independent Context Caching for Serving Large Language Models](https://arxiv.org/pdf/2410.15332) | Position independent | PKU | arxiv|
 | [CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving](https://arxiv.org/pdf/2310.07240) | KV Cache compression | University of Chicage | sigcomm |
-| [Enabling Parallelism Hot Switching for Efficient Training of Large Language Models](https://dl.acm.org/doi/10.1145/3694715.3695969) | | Peking University | SOSP 2024 | 
 
 
 
