@@ -83,7 +83,7 @@ description: >-
 | [CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion](https://arxiv.org/pdf/2405.16444) | KV Cache cross | University of Chicago | Eurosys |
 | [Epic: Efficient Position-Independent Context Caching for Serving Large Language Models](https://arxiv.org/pdf/2410.15332) | Position independent | PKU | arxiv|
 | [CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving](https://arxiv.org/pdf/2310.07240) | KV Cache compression | University of Chicage | sigcomm |
-
+| [Enabling Parallelism Hot Switching for Efficient Training of Large Language Models](https://dl.acm.org/doi/10.1145/3694715.3695969) | | Peking University | SOSP 2024 | 
 
 
 
