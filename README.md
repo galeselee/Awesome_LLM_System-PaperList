@@ -64,7 +64,7 @@ description: >-
 | [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/abs/2404.07947) |      Decouple         |   Hanyang University     |    ASPLOS 2024     |                   |
 | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://arxiv.org/abs/2405.19888) |    LLM Applications        |   SJTU    |    OSDI 2024     |                   |
 | [Fairness in Serving Large Language Models](https://arxiv.org/abs/2401.00588) | Fairness; LLM Serving | UC Berkeley,Stanford University | OSDI 2024 |  |
-| [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) |                           KV Cache                           |          Moonshot AI          |    GitHub    |                                                              |
+| [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) |                           KV Cache                           |          Moonshot AI          |    [Github](https://github.com/kvcache-ai/Mooncake)    |            |
 | [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/pdf/2407.02490) | Pre-fillingfor Long-Context<br />Dynamic Sparse Attention | Microsoft | Arxiv | [Github repo](https://github.com/microsoft/MInference?tab=readme-ov-file) |
 | [MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool](https://arxiv.org/abs/2406.17565) | Memory Pool | Huawei | Arxiv | |
 | [InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management](https://www.usenix.org/conference/osdi24/presentation/lee) | sparisity | Seoul National University | OSDI 2024 | |
@@ -179,4 +179,5 @@ description: >-
 | :--------------------------------------------------------------------------------------------------------------------------: | :----------------: | :---------------: | :---------: | :----: |
 | [Characterization of Large Language Model Development in the Datacenter](https://arxiv.org/abs/2403.07648) | Cluster trace(for LLM) | ShangHai AI Lab |    NSDI 2024    | [Github](https://github.com/InternLM/AcmeTrace)  |
 | [BurstGPT: A Real-world Workload Dataset to Optimize LLM Serving Systems](https://arxiv.org/abs/2401.17644) | GPT users trace | HKUSTGZ | Arxiv 2024 | [Github](https://github.com/HPMLL/BurstGPT/)|
+| [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) |                           KV Cache             |          Moonshot AI          |    [Github](https://github.com/kvcache-ai/Mooncake)    |            |
 
