@@ -154,6 +154,8 @@ description: >-
 | :-----------------------------------------------------------------------------------------------------------------------------: | :------: | :---------------: | :---------: | :----------------------------------------------: |
 | [Zeus: Understanding and Optimizing GPU energy Consumption of DNN Training](https://www.usenix.org/system/files/nsdi23-you.pdf) |          |  Yale University  |  NSDI 2023  | [Github repo](https://github.com/ml-energy/zeus) 
 | [Power-aware Deep Learning Model Serving with μ-Serve](https://www.usenix.org/system/files/atc24-qiu.pdf) | | UIUC | ATC 2024 | |
+| [Characterizing Power Management Opportunities for LLMs in the Cloud](https://dl.acm.org/doi/10.1145/3620666.3651329) | LLM | Microsoft Azure | ASPLOS 2024| |
+
 
 ### Decentralized
 
