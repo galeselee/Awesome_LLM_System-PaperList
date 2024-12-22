@@ -140,6 +140,8 @@ description: >-
 | [Transformer-VQ: Linear-Time Transformers via Vector Quantization](https://arxiv.org/abs/2309.16354) | VQ | Independent Researcher| ICLR 2024
 | [KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache](https://arxiv.org/abs/2402.02750) | KVCache | Rice University | ICML 2024
 | [QServe:W4A8KV4QuantizationandSystemCo-designforEfficientLLMServing](https://arxiv.org/abs/2405.04532) | Algorithm and system codesign | MIT | Arxiv2024|
+| [QTIP: Quantization with Trellises and Incoherence Processing](https://arxiv.org/abs/2406.11235) | VQ | Cornell University | 2024 nips spotlight |
+
 
 ### Communication
 
