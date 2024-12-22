@@ -141,6 +141,7 @@ description: >-
 | [KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache](https://arxiv.org/abs/2402.02750) | KVCache | Rice University | ICML 2024
 | [QServe:W4A8KV4QuantizationandSystemCo-designforEfficientLLMServing](https://arxiv.org/abs/2405.04532) | Algorithm and system codesign | MIT | Arxiv2024|
 | [QTIP: Quantization with Trellises and Incoherence Processing](https://arxiv.org/abs/2406.11235) | VQ | Cornell University | 2024 nips spotlight |
+| [PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression](https://arxiv.org/abs/2405.14852) | Improve STE | Yandex, HSE | 2024 nips oral | 
 
 
 ### Communication
